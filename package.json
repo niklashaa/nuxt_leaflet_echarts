@@ -10,6 +10,9 @@
   },
   "dependencies": {
     "core-js": "^3.6.5",
+    "echarts": "^5.0.0",
+    "echarts-leaflet": "^1.1.0",
+    "leaflet": "^1.7.1",
     "nuxt": "^2.14.6"
   },
   "devDependencies": {
