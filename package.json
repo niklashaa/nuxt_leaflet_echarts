@@ -13,7 +13,7 @@
     "echarts": "^4.9.0",
     "echarts-leaflet": "^1.1.0",
     "leaflet": "^1.7.1",
-    "nuxt": "^2.14.6",
+    "nuxt": "^2.14.7",
     "vue-echarts": "^5.0.0-beta.0"
   },
   "devDependencies": {
